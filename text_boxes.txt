@@ -1,0 +1,7 @@
+['Asami-san', [1023, 76, 1060, 191]]
+['I"m going to do a little shopping, so could you please look after the house', [931, 132, 999, 274]]
+['Are you going somewhere, little brother?', [962, 409, 1032, 531]]
+['We"re running out of daily necessities, so I thought I"d go shopping', [884, 588, 946, 745]]
+['Do you need anything in particular?', [881, 764, 953, 928]]
+['If that"s the case, I"ll go too', [800, 396, 847, 545]]
+['Eh!', [683, 704, 715, 789]]
